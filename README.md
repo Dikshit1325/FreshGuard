@@ -1,4 +1,4 @@
-# FreshGuard - IoT Food Spoilage Detection System
+# FreshGuard - IoT Smart Container for Food Spoilage Detection System
 
 This project is an IoT-based smart container system that monitors food freshness using sensors and sends data to ThingSpeak.
 
