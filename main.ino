@@ -3,7 +3,7 @@
 //#include <Wire.h>
 //#include <Adafruit_GFX.h>
 //#include <Adafruit_SSD1306.h>
-#include <ThingSpeak.h>
+//#include <ThingSpeak.h>
 
 // ----- Wi-Fi -----
 const char* ssid = "YOUR_WIFI_NAME";
